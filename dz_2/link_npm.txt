@@ -1,0 +1,1 @@
+https://www.npmjs.com/package/alex_generate_password_of_12_characters

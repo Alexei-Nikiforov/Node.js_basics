@@ -1,0 +1,12 @@
+{
+  "name": "alex_generate_password_of_12_characters",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "keywords": ["password"],
+  "author": "Alex Nikiforov",
+  "license": "ISC",
+  "description": "Generating random password of 12 characters"
+}
